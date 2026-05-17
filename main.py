@@ -1,4 +1,3 @@
-print(10*2)
-git --version
+print("Mi primer proyecto Python")
 
       
