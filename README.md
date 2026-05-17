@@ -1,20 +1,20 @@
 # Didier Data Portfolio
 
-Portfolio de aprendizaje y proyectos en:
+Portfolio of learning and projects in:
 
 - Python
 - SQL
 - Power BI
-- Automatización
+- Automation
 - Data Analysis
 
-## Objetivos
+## Objectives
 
-- Aprender programación y análisis de datos
-- Crear proyectos reales
-- Construir portfolio profesional
+- Learn programming and data analytics
+- Build real-world projects
+- Develop a professional portfolio
 
-## Tecnologías
+## Technologies
 
 - Python
 - Git & GitHub
